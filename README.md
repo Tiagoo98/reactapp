@@ -5,3 +5,8 @@ Just testing :D
 ```
 None.
 ```
+
+```
+getURLSlug('Test Alo');
+//=> 'test-alo'
+```
